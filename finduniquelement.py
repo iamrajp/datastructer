@@ -1,10 +1,12 @@
 
 """
 
+Problem: You wer given a sorted array. Find unique lement from sorted array
+
 Find unique Element from sorted array
 
 Time Complexity : O(log(n))
-Space Complexity: O(log(n))
+Space Complexity: O(n)
 
 """
 
